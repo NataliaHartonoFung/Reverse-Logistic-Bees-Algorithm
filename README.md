@@ -1,2 +1,2 @@
-# Reverse-Logistic-Bees-Algorithm
-2 echelon vehicle routing problem for reverse logistic 
+# Reverse-Logistic-Fibonacci-Bees-Algorithm
+This repository contain results and code of our research with title: "Optimising reverse logistics in remanufacturing using the Bees Algorithm"
